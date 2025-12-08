@@ -115,12 +115,20 @@ Me chamo Matheus Maia, tenho 19 anos e sou natural do Amazonas. Atualmente, esto
 
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
   <a href="https://github.com/Matheus21x">
-    <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheus21x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img 
+      height="160px"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheus21x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    />
   </a>
 
   <a href="https://github.com/Matheus21x">
-    <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus21x&theme=tokyonight"/>
+    <img 
+      height="160px"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus21x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut"
+    />
   </a>
+
 </div>
