@@ -2,7 +2,7 @@
 
 **`AI Engineer Junior`**
 
-Me chamo Matheus Maia, tenho 19 anos e sou natural do Amazonas. Atualmente, estou cursando Engenharia da Computação na UEA. Sou apaixonada pelo mundo de Inteligência Artificial, Data Science, Deep Learning, Machine Learning 🤖
+Me chamo Matheus Maia, tenho 19 anos e sou natural do Amazonas. Atualmente, estou cursando Engenharia da Computação na UEA. Sou apaixonada pelo mundo de Inteligência Artificial, Data Science, Deep Learning, Machine Learning e Redes Neurais🤖
 
 <p align="left">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mmb.eng24@uea.edu.br" target="_blank">
@@ -115,23 +115,18 @@ Me chamo Matheus Maia, tenho 19 anos e sou natural do Amazonas. Atualmente, esto
 
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<p align="center">
+  <img 
+    width="330"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheus21x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    width="315"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus21x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut"
+  />
+</p>
 
-  <a href="https://github.com/Matheus21x">
-    <img 
-      height="160px"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheus21x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    />
-  </a>
-
-  <a href="https://github.com/Matheus21x">
-    <img 
-      height="160px"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus21x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut"
-    />
-  </a>
-
-</div>
 
 
 <picture align="center">
