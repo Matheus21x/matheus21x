@@ -2,7 +2,7 @@
 
 **`AI Engineer Junior`**
 
-I'm Matheus Maia, 19, from Amazonas, Brazil, currently studying Computer Engineering at UEA and passionate about Artificial Intelligence, Data Science, Deep Learning, Machine Learning and Neural Networks 🤖
+I'm Matheus Maia, 20, from Amazonas, Brazil, currently studying Computer Engineering at UEA and passionate about Artificial Intelligence, Data Science, Deep Learning, Machine Learning and Neural Networks 🤖
 
 <p align="left">
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mmb.eng24@uea.edu.br" target="_blank">
